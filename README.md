@@ -1,7 +1,7 @@
 ### Hi! I'm Jeremy Hadfield
 - 🔭 **I’m currently working on** finishing my bachelor's in philosophy and cognitive science (with a focus area in computational consciousness) at Dartmouth College, and searching for a job as an entry-level product/project manager, data scientist, or software engineer. 
 - 🌱 **I’m currently learning** data science with Pandas and machine learning with scikit-learn
-- 👯 **I’m looking to collaborate on** open-source projects on computational analysis of philosophical and literary texts, data science of pandemics and climate change, and visualization and analysis of data related to mental health. 
+- 👯 **I’m looking to collaborate on** open-source projects on computational analysis of philosophical and literary texts, visualization and analysis of environmental issues, and projects or data analysis related to mental health. 
 - 🤔 **I’m looking for help with** searching for a job, improving my technical skills, and making decisions about future careers! 
 - 💬 **Ask me about** the new science of consciousness, realizing imaginaries, or existential philosophy
 - 📫 **How to reach me**: jhadfield129@gmail.com or jeremy.hadfield.21@dartmouth.edu
