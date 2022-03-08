@@ -8,5 +8,4 @@
 - ⚡ **Fun fact**: The number 0 was independently invented at least twice in human history: by the Mayans around 100 AD, and by the Babylonians around 400 BC. Zero was introduced to Europe by Fibonacci, or Leonardo of Pisa, in around 1200 AD. He brought back 0 and other Arabic numerals from his travels in the Middle East. 
 
 ## Some Projects on this Github
-- **[AutoPulse: A Bot to Take COllegePulse Surveys](https://github.com/jerhadf/pulse-survey-bot):** This is an automated bot, built with Python and Selenium, to rapidly and automatically take all of the surveys on CollegePulse.com. To do this, I had to bypass Captchas, timers, and other questions used to prevent bots from taking the surveys. CollegePulse is now a successful startup accepted at YCombinator S18, and most of the code I wrote is still in use for automated testing.
-
+- **[AutoPulse: A Bot to Take CollegePulse Surveys](https://github.com/jerhadf/pulse-survey-bot):** This is an automated bot, built with Python and Selenium, to rapidly and automatically take all of the surveys on CollegePulse.com. To do this, I had to bypass Captchas, timers, and other questions used to prevent bots from taking the surveys. CollegePulse is now a successful startup accepted at YCombinator S18, and most of the code I wrote is still in use for automated testing.
