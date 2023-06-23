@@ -3,7 +3,7 @@
 - 🌱 **I’m currently learning about** how to build products with LLMs, affective neurocience, and the engineering of climate change. See [my website](https://jeremyhadfield.com/) and [my Substack](https://imaginaries.substack.com/) to see what I'm thinking about lately.
 - 👯 **I’m looking to collaborate on** open-source projects on computational analysis of philosophical and literary texts, visualization and analysis of environmental issues, and projects or data analysis related to mental health. Also community-building stuff! 
 - 🤔 **I’m looking for help with** improving my technical skills, thinking about life & career decisions, and 
-- 💬 **Ask me about** the new science of consciousness, realizing imaginaries, or existential philosophy. 
+- 💬 **Ask me about** the new science of consciousness, realizing imaginaries, existential philosophy, or AI-based tools for thought. 
 - 📫 **How to reach me**: jhadfield129@gmail.com (personal), jeremyh.th@dartmouth.edu (school), jeremy@ought.org (work)
 
 ## Some Projects
