@@ -1,10 +1,10 @@
 ### Hi! I'm Jeremy Hadfield
-- 🔭 **Working on:** finishing a [Masters of Engineering Management](https://engineering.dartmouth.edu/graduate/mem) at Dartmouth College (in November 2023).
-- 🌱 **Learning about:** how to build products with LLMs, AI ethics, and the engineering of climate change. See [Imaginaries](https://imaginaries.substack.com/) to see what I'm thinking about lately.
+- 🔭 **Working on:** finishing a [Masters of Engineering Management](https://engineering.dartmouth.edu/graduate/mem) at Dartmouth College (in November 2023)
+- 🌱 **Learning about:** how to build imaginative products with LLMs, AI ethics, and the engineering of climate change. See [Imaginaries](https://imaginaries.substack.com/) to see what I'm thinking about lately.
 - 👯 **Looking to collaborate on:** open-source projects on LLM tools for thought, visualization & analysis of environmental issues, and projects or data analysis related to mental health. Also writing, art, community-building!
-- 🤔 **Looking for help with** improving my technical skills in AI, thinking about career pathways, critical feedback. 
+- 🤔 **Looking for help with** building technical ML skills, thinking about career pathways, critical feedback. 
 - 💬 **Ask me about:** realizing imaginaries, conceptual engineering, existential philosophy, or AI tools for thought. 
-- 📫 **How to reach me**: jeremy.hadf@gmail.com (personal), jeremyh.th@dartmouth.edu (school)
+- 📫 **How to reach me**: jeremy.hadf@gmail.com, jeremyh.th@dartmouth.edu
 
 ## Some Sample Projects
 - **[Using ML to Optimize Steel Utilization for Hypertherm](https://github.com/jerhadf/hyperthermDAPL)** _(machine learning, data analytics, databases, SQL, Python)_ Processed 100+ million rows of data from plasma cutting machines and built ML models to predict steel utilization with high accuracy. Created a plan to prevent ~5k metric tons of CO2 and save ~$52 million each year.
